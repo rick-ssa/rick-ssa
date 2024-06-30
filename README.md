@@ -11,4 +11,4 @@
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![tipyscript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rick-ssa&show_icons=true&theme=radical)
+![Ricardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=rick-ssa&show_icons=true&theme=highcontrast)
