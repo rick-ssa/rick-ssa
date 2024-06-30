@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Ricardo! You are welcome here! 👋
 
 <!--
 **rick-ssa/rick-ssa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
